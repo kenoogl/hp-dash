@@ -1,0 +1,77 @@
+baseURL: https://copernicium.cc.kyushu-u.ac.jp/
+languageCode: en-us
+title: Computational Science Laboratory
+theme: hextra
+
+menu:
+  main:
+    - name: Research
+      pageRef: /research
+      weight: 1
+    - name: Project
+      pageRef: /project
+      weight: 2
+    - name: Teaching
+      pageRef: /teaching
+      weight: 3
+    - name: Publication
+      pageRef: /publication
+      weight: 3
+    - name: Galley
+      pageRef: /gallery
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+  sidebar:
+    - name: More
+      params:
+        type: separator
+      weight: 1
+    - name: "Our lab"
+      pageRef: "/our_lab"
+      weight: 2
+    - name: "Document"
+      pageRef: "/docs"
+      weight: 3
+    - name: "Software"
+      pageRef: "/software"
+      weight: 4
+    - name: "Blog"
+      pageRef: "/blog"
+      weight: 5
+    - name: "Hugo Docs ↗"
+      url: "https://gohugo.io/documentation/"
+      weight: 6
+
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+
+
+#defaultContentLanguage: ja
+#languages:
+#  en:
+#    languageName: English
+#    weight: 1
+#  ja:
+#    languageName: 日本語
+#    weight: 2
+
