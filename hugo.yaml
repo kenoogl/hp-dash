@@ -16,16 +16,16 @@ menu:
       weight: 3
     - name: Publication
       pageRef: /publication
-      weight: 3
+      weight: 4
     - name: Galley
       pageRef: /gallery
-      weight: 4
-    - name: Search
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 6
+      weight: 7
       url: "https://github.com/imfing/hextra"
       params:
         icon: github

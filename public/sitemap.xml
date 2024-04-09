@@ -2,23 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2024-04-03T22:06:48+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/hpc/</loc>
+    <lastmod>2024-04-03T23:49:31+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/</loc>
+    <lastmod>2024-04-03T21:28:25+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/guide/</loc>
     <lastmod>2024-04-03T19:35:51+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching/</loc>
+    <lastmod>2024-04-03T22:07:36+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2024-04-03T23:52:19+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/cfd/</loc>
+    <lastmod>2024-04-03T23:48:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/julia/</loc>
+    <lastmod>2024-04-09T18:12:10+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2024-04-03T22:08:09+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/genetic_algorithm/</loc>
+    <lastmod>2024-04-05T11:05:46+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/ttd/</loc>
+    <lastmod>2024-04-03T23:49:07+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/workflow/</loc>
+    <lastmod>2024-04-06T01:08:32+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/research/visualization/</loc>
+    <lastmod>2024-04-05T11:04:16+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/2024/</loc>
     <lastmod>2024-04-06T00:11:35+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/2020/</loc>
-    <lastmod>2024-04-05T11:12:05+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/2021/</loc>
-    <lastmod>2024-04-05T11:12:00+09:00</lastmod>
+    <loc>http://localhost:1313/publication/2023/</loc>
+    <lastmod>2024-04-05T11:11:53+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/publication/2022/</loc>
     <lastmod>2024-04-05T11:11:57+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/publication/2023/</loc>
-    <lastmod>2024-04-05T11:11:53+09:00</lastmod>
+    <loc>http://localhost:1313/publication/2021/</loc>
+    <lastmod>2024-04-05T11:12:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/2020/</loc>
+    <lastmod>2024-04-05T11:12:05+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/2019/</loc>
+    <lastmod>2024-04-09T16:51:20+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/publication/2018/</loc>
+    <lastmod>2024-04-09T16:51:13+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/project/wheel/</loc>
+    <lastmod>2024-04-06T01:08:22+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/windfarm/</loc>
     <lastmod>2024-04-05T11:09:56+09:00</lastmod>
@@ -29,44 +74,14 @@
     <loc>http://localhost:1313/project/tdw/</loc>
     <lastmod>2024-04-05T11:08:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/genetic_algorithm/</loc>
-    <lastmod>2024-04-05T11:05:46+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/visualization/</loc>
-    <lastmod>2024-04-05T11:04:16+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
-    <lastmod>2024-04-03T23:52:19+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/project/solar/</loc>
     <lastmod>2024-04-03T23:50:36+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/hpc/</loc>
-    <lastmod>2024-04-03T23:49:31+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/ttd/</loc>
-    <lastmod>2024-04-03T23:49:07+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/project/equation_discovery/</loc>
     <lastmod>2024-04-03T23:48:38+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/research/cfd/</loc>
-    <lastmod>2024-04-03T23:48:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/publication/</loc>
-    <lastmod>2024-04-03T22:08:09+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
-    <lastmod>2024-04-03T22:07:36+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/software/</loc>
     <lastmod>2024-04-03T22:07:02+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/research/</loc>
-    <lastmod>2024-04-03T22:06:48+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/project/</loc>
-    <lastmod>2024-04-03T21:28:25+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/our_lab/</loc>
     <lastmod>2024-04-03T21:25:09+09:00</lastmod>
