@@ -1,6 +1,5 @@
 baseURL: https://copernicium.cc.kyushu-u.ac.jp/
 languageCode: en-us
-title: Computational Science Laboratory
 theme: hextra
 
 menu:
@@ -47,9 +46,12 @@ menu:
     - name: "Blog"
       pageRef: "/blog"
       weight: 5
-    - name: "Hugo Docs ↗"
-      url: "https://gohugo.io/documentation/"
+    - name: "Link ↗"
+      pageRef: "/link"
       weight: 6
+    #- name: "Hugo Docs ↗"
+    #  url: "https://gohugo.io/documentation/"
+    #  weight: 7
 
 params:
   theme:
@@ -66,12 +68,14 @@ params:
       index: content
 
 
-#defaultContentLanguage: ja
-#languages:
-#  en:
-#    languageName: English
-#    weight: 1
-#  ja:
-#    languageName: 日本語
-#    weight: 2
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    title: Computational Science Course
+    weight: 2
+  ja:
+    languageName: 日本語
+    title: 計算科学講座
+    weight: 1
 

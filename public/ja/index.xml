@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>計算科学講座 – 小野研究室</title>
+    <link>http://localhost:1313/ja/</link>
+    <description>Recent content in 小野研究室 on 計算科学講座</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 03 Apr 2024 19:31:42 +0900</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>

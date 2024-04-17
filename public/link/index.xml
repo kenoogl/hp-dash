@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Science Course – Link</title>
+    <link>http://localhost:1313/link/</link>
+    <description>Recent content in Link on Computational Science Course</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Apr 2024 11:51:28 +0900</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

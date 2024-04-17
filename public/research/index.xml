@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Science Laboratory – Research</title>
+    <title>Computational Science Course – Research</title>
     <link>http://localhost:1313/research/</link>
-    <description>Recent content in Research on Computational Science Laboratory</description>
+    <description>Recent content in Research on Computational Science Course</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 03 Apr 2024 22:06:48 +0900</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
@@ -14,19 +14,6 @@
         
       
     
-    
-    <item>
-      <title>Julia</title>
-      <link>http://localhost:1313/research/julia/</link>
-      <pubDate>Tue, 09 Apr 2024 18:12:10 +0900</pubDate>
-      
-      <guid>http://localhost:1313/research/julia/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
     
   </channel>
 </rss>
